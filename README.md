@@ -21,6 +21,8 @@ Using Pandas / Numpy / SciKit Learn / (Keras)
     - *Tags*: Exploration / LabelEncoder / StandardScaler / SVM / grid search
   - Glass Identification (214x8 - 7classes)
     - *Tags*: Exploration / Correlation matrix / StandardScaler / Random Forest / Confusion Matrix (std & normalized) 
+  - Wine Quality / Color (6497x12 - 2classes)
+    - *Tags*: Exploration / Correlation matrix / StandardScaler /  KNN / Confusion Matrix
   - Fingers (https://www.kaggle.com/koryakinp/fingers)
     - *Tags*: Exploration / Image manipulation / PCA / LabelEncoder / SGD / Confusion Matrix (std & normalized)  / MLP / Keras ANN
 
